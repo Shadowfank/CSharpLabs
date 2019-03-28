@@ -87,7 +87,7 @@ namespace ConsoleApp2
             }
             return result;
         }
-
+//
         public static string Sort(int[] mas)
         {
             string result = "";
